@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumedhaMagotra
 -   Currently a CSE-AIML student at Chandigarh University 
-- 👀 I’m interested in coding and have covered languages like C, C++, and Python
+- 👀 I’m interested in coding and have covered languages like Java, Python, C and C++ 
 - 💞️ I’m looking forward to learning more and doing projects. 
 - 📫 How to reach me : - Linkedin - sumedha-magotra
   
